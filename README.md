@@ -24,7 +24,7 @@ HDT11 sensor\
 ![1000056029](https://github.com/user-attachments/assets/b4384ec3-d226-4ad3-842c-44009a7e7294)
 
 
-Lcd 16x2 with I2c adapter soldered to it.\ You can also use the lcd without I2c adapter but then the schematics will be different.\
+Lcd 16x2 with I2c adapter soldered to it. You can also use the lcd without I2c adapter but then the schematics will be different.
 
 ![1000056027](https://github.com/user-attachments/assets/b276b522-84c9-4e8d-848d-52309d7b4da0)
 
